@@ -1,16 +1,11 @@
-# Eugenio Challenge
+# <img src="https://www.eugeniochallengehub.io/wp-content/themes/challengehub/img/logo.png" alt="drawing" width="200"/>
+
 [![Pith](https://img.shields.io/badge/pitch-video-media?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://github.com/filipecancio/eugenio-challenge)
 [![Pith](https://img.shields.io/badge/demo-video-media?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://github.com/filipecancio/eugenio-challenge)
 [![Pith](https://img.shields.io/badge/pitch-ppt-media?colorA=e9a62a&colorB=e28800&style=for-the-badge)](https://docs.google.com/presentation/d/1QJ209s56Z7jyDzCSVrqD3MBGxHJJTT-_kZ6-s4bfNzA/edit?usp=sharing)
 [![Wireframe](https://img.shields.io/badge/wireframe-figma-media?colorA=636363&colorB=3f3f3f&style=for-the-badge)](https://github.com/filipecancio/eugenio-challenge)
 [![Pesquisa](https://img.shields.io/badge/pesquisa-notion-media?colorA=636363&colorB=3f3f3f&style=for-the-badge)](https://www.notion.so/Eugenio-Challenge-1c4565855d2740d08456ff7db085fcce)
 
-## Equipe
-- Thainá Monteiro - Negócio
-- Vitor Lemos - Negócio
-- Gabriela Santiago - UX
-- Filipe Câncio - IOT
-- João Eliandro - Desenvolvimento
 
 ## Desafio Natura
 [Página do Desafio](https://www.eugeniochallengehub.io/)
@@ -33,4 +28,34 @@ Para isso, a plataforma EUGENIO será o grande impulsionador para o desenvolvime
 
 ## Solução
 
+### Código Fonte
+Segue a documentação do código fonte:
+- [Aplicação Web]()
+- [Firmeware]()
+- [API]()
+- [Protótipo físico]()
+
+## Equipe
+[<img src="https://avatars0.githubusercontent.com/u/47891117?s=460&u=1f748e7fdec0b9d42b23f20d70f774031378e9b7&v=4" alt="Thainá Monteiro" width="100" style="border-radius:50%"/> 
+Thainá Monteiro - Negócio](https://github.com/thainamonteiro)
+
+[<img src="https://avatars2.githubusercontent.com/u/31148456?s=460&u=bbec9cff52e0bfbe009e0812f9fc73f325135da9&v=4" alt="Vitor Lemos" width="100" style="border-radius:50%"/> 
+Vitor Lemos - Negócio](https://github.com/vitorglemos)
+
+[<img src="https://avatars3.githubusercontent.com/u/45946798?s=460&u=c2f0a21b9cd637eab5c63e4fa996e2183cedd200&v=4" alt="Gabriela Santiago" width="100" style="border-radius:50%"/> 
+Gabriela Santiago - UX](https://github.com/penguelengue)
+
+[<img src="https://avatars0.githubusercontent.com/u/13178261?s=460&u=82b8e7a2a45c8f829a823fb48bb59506c87fbb61&v=4" alt="Filipe Câncio" width="100" style="border-radius:50%"/> 
+Filipe Câncio - IOT](https://github.com/filipecancio)
+
+[<img src="https://avatars1.githubusercontent.com/u/52173525?s=460&u=c5449ff37a66ed39e4b065067492ff63366f7c05&v=4" alt="João Eliandro" width="100" style="border-radius:50%"/> 
+João Eliandro - Desenvolvimento](https://github.com/joaoeliandro)
+
+## Serviços
+
+![eugenio](https://www.eugeniochallengehub.io/wp-content/themes/challengehub/img/eugenio.gif)
+
+![eugenio](https://media2.giphy.com/media/kcHLvCdsb9DsAfPjDX/source.gif)
+
+![eugenio](https://istoe.com.br/wp-content/uploads/sites/14/2018/08/natura.jpg)
 
