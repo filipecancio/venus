@@ -50,12 +50,3 @@ Filipe Câncio - IOT](https://github.com/filipecancio)
 
 [<img src="https://avatars1.githubusercontent.com/u/52173525?s=460&u=c5449ff37a66ed39e4b065067492ff63366f7c05&v=4" alt="João Eliandro" width="100" style="border-radius:50%"/> 
 João Eliandro - Desenvolvimento](https://github.com/joaoeliandro)
-
-## Serviços
-
-![eugenio](https://www.eugeniochallengehub.io/wp-content/themes/challengehub/img/eugenio.gif)
-
-![eugenio](https://media2.giphy.com/media/kcHLvCdsb9DsAfPjDX/source.gif)
-
-![eugenio](https://istoe.com.br/wp-content/uploads/sites/14/2018/08/natura.jpg)
-
