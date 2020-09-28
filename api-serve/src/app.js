@@ -14,7 +14,7 @@ const repo = {
 };
 
 app.get("/", (request, response) => {
-  return response.json(repositories);
+  return response.json(repo);
 });
 
 module.exports = app;
