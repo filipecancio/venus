@@ -15,10 +15,10 @@ Uma experiência segura e interativa para os seus clientes!
 
 ## Código Fonte
 Segue a documentação do código fonte:
-- [Aplicação Web](application/README.md)
-- [Firmeware](firmeware/README.md)
-- [API]()
-- [Protótipo físico](model/README.md)
+- [Aplicação Web](application/)
+- [Firmeware](firmeware/)
+- [API](api-serve/)
+- [Protótipo físico](model/)
 
 ## Problema
 Não há dúvidas de que a Covid-19 influenciou significativamente a vida cotidiana das pessoas.
