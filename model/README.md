@@ -2,6 +2,10 @@
 
 ## Modelo de Prototipo
 
+Para a elaboração da estrutura foi utilizado o software Sktechup para web.
+
+<img src="fotos/09sketch01.png" alt="component" width="400"/>
+
 ### Lista de componentes físicos
 - Recipientes de aplicatores (Natura TODODIA Macadâmia, Frutas Vermelhas e Algodão)
 <img src="fotos/01-cremes.jpg" alt="component" width="200"/> 
@@ -26,3 +30,10 @@
 
 - Caobs (Simula circuito interno)
 <img src="fotos/08-cabos.jpg" alt="component" width="200"/>
+
+## Produção
+
+Para a criação da estrura foi utilizada a impressão 3d, infelizmente o prazo de entrega do projeto não consegui ser alcançado para a finalização da produção.
+
+<img src="fotos/12-producao01.jpeg" alt="component" width="400"/>
+<img src="fotos/13-producao02.jpeg" alt="component" width="400"/>
