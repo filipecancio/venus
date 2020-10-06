@@ -17,7 +17,7 @@ Uma experiência segura e interativa para os seus clientes!
 Segue a documentação do código fonte:
 - [Aplicação Web](application/)
 - [Firmeware](firmeware/)
-- [API]()
+- [API](api-serve/)
 - [Protótipo físico](model/)
 
 ## Problema
